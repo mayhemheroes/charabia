@@ -1,0 +1,6 @@
+project: charabia
+target: tokenize
+duration: 300
+
+cmds:
+  - cmd: /tokenize
