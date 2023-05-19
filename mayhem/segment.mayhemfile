@@ -1,0 +1,6 @@
+project: charabia
+target: segment
+duration: 300
+
+cmds:
+  - cmd: /segment
